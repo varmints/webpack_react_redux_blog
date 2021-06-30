@@ -1,0 +1,33 @@
+.article__subtitle,
+.article__paragraph {
+  margin-bottom: 2.4rem;
+}
+
+.article__title {
+  font: 700 2rem/1.2 "Roboto";
+  color: hsl(000, 000%, 33%);
+}
+.article__subtitle {
+  font: 400 1.5rem/1.2 "Roboto";
+  color: hsl(000, 000%, 83%);
+}
+.article__time {
+  font: 700 1rem/1.2 "Roboto";
+  color: hsl(250, 100%, 83%);
+}
+h3 {
+  font: 700 1rem/1.2 "Roboto";
+  color: hsl(250, 100%, 67%);
+}
+.article__paragraph {
+  font: 400 1rem/1.5 "Roboto";
+  color: hsl(000, 000%, 33%);
+}
+figcaption .article__paragraph {
+  font: 400 1rem/1.5 "Roboto";
+  color: hsl(000, 000%, 83%);
+}
+
+.article__link {
+  box-shadow: inset 0 -0.25em hsl(55, 100%, 75%);
+}

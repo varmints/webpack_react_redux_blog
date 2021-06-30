@@ -1,0 +1,19 @@
+.comments__header {
+  font: 700 1rem/2 "Roboto";
+  color: hsl(250, 100%, 83%);
+  text-transform: uppercase;
+}
+
+.comments__item {
+  margin-bottom: 1.2rem;
+}
+
+.comments__author {
+  font: 400 1rem/1.5 "Roboto";
+  color: hsl(000, 000%, 83%);
+}
+
+.comments__text {
+  font: 400 1rem/1.5 "Roboto";
+  color: hsl(000, 000%, 33%);
+}

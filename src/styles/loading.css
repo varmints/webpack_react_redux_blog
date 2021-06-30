@@ -1,0 +1,4 @@
+.loading__text {
+  font: italic 700 2rem/1.2 "Roboto";
+  color: hsl(000, 000%, 33%);
+}
